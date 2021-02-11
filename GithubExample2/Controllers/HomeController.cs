@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace GithubExample2.Controllers
 {
+    // 주석
     public class HomeController : Controller
     {
         public ActionResult Index()
